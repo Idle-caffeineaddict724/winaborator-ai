@@ -59,13 +59,11 @@ No Node.js or other prerequisites needed — the installer bundles everything.
 | Shortcut | Action |
 |---|---|
 | `Ctrl+Shift+O` | Add workspace |
-| `Ctrl+K` | Open file search |
-| `Ctrl+=` | Zoom in |
-| `Ctrl+-` | Zoom out |
-| `Ctrl+0` | Reset zoom |
-| `F2` | Rename selected file |
-| `Delete` | Move selected file(s) to recycle bin |
-| `Escape` | Close viewer or search |
+| `Ctrl+K` | File search |
+| `Ctrl+Scroll` | Zoom canvas |
+| `F2` | Rename file |
+| `Delete` | Delete file to trash |
+| `Escape` | Close search / viewer |
 
 ---
 
