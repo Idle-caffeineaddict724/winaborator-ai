@@ -23,8 +23,8 @@ Winaborator is a Windows-native desktop app built for developers who work with m
 ## Screenshots
 
 | Welcome Screen | File Tree/Background
-|---|---|---|
-| ![Welcome](welcome.png) | ![Canvas](canvas.png) | ![Inside](inside.png) |
+|---|---|
+| ![Welcome](welcome.png) | ![Canvas](canvas.png) |
 
 ---
 
