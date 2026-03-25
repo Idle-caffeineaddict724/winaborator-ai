@@ -8,10 +8,6 @@ Winaborator gives you an infinite canvas where you can open terminals, browse fi
 
 ---
 
-![Winaborator Canvas](inside.png)
-
----
-
 ## What is Winaborator?
 
 Winaborator is a Windows-native desktop app built for developers who work with multiple AI agents at the same time. Instead of juggling separate terminal windows, editors, and file browsers, everything lives on one shared infinite canvas you can pan, zoom, and organize freely.
@@ -22,9 +18,9 @@ Winaborator is a Windows-native desktop app built for developers who work with m
 
 ## Screenshots
 
-| Welcome Screen | Backgrounds |
-|---|---|
-| ![Welcome](welcome.png) | ![Canvas](canvas.png) |
+![Welcome Screen](welcome.png)
+
+![Canvas with Terminals](canvas.png)
 
 ---
 
@@ -50,7 +46,7 @@ Winaborator is a Windows-native desktop app built for developers who work with m
 
 👉 **[Download the latest release →](https://github.com/jakeefr/winaborator-ai/releases/latest)**
 
-1. Download `Winaborator-Setup-x.x.x.exe` from the latest release
+1. Download `Winaborator Setup 1.0.0.exe` from the latest release
 2. Run the installer
 3. Launch Winaborator from your desktop or Start menu
 
