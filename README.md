@@ -93,5 +93,5 @@ This is early beta software — bugs are expected. If you find one:
 
 ## License
 
-© 2025 Jake. All rights reserved.  
+© 2026 Jake. All rights reserved.  
 This software is provided as-is for personal use. Source code is not publicly available.
